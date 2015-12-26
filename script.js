@@ -6,7 +6,7 @@ new Date().getFullYear() +
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
 "<li><a href='index.html'>Home</a></li>" +
-"<li><a href='customers.html'>Data</a></li>" +
+"<li><a href='adventures.html'>Adventures</a></li>" +
 "<li><a href='about.html'>About</a></li>" +
-"<li><a href='site.css'>CSS</a></li>" +
+"<li><a href='contact.html'>Contact</a></li>" +
 "</ul>";
