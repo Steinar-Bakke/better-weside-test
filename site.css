@@ -101,13 +101,14 @@ ul#menu {
 ul#menu li {
     display: inline;
     margin-right: 3px;
+	float: left; 
 }
 ul#menu li a {
-    background-color: #ffffff;
-    padding: 10px 20px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    color: #696969;
-    border-radius: 4px 4px 0 0;
 }
 ul#menu li a:hover {
     color: white;
