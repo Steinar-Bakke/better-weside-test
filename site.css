@@ -11,12 +11,11 @@ body {
     font-size: 15px; 
     line-height: 1.5; 
 	background-attachment: fixed; 
-	background-color: ; 
-	background-image: url("Images/testhorses2.png"); 
+	background-image: url("Images/icelandtest.png"); 
 	background-position: left top; 
 	background-repeat: no-repeat; 
 	background-size: 100%;
-    background-color: dimgrey; 
+    background-color: lightblue; 
     color: #696969; 
     padding: 3px; 
 }
