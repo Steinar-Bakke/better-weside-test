@@ -12,9 +12,10 @@ body {
     line-height: 1.5; 
 	background-attachment: fixed; 
 	background-color: ; 
-	background-image: url("Images/Snow.png"); 
+	background-image: url("Images/testhorses2.png"); 
 	background-position: left top; 
 	background-repeat: no-repeat; 
+	background-size: 100%;
     background-color: dimgrey; 
     color: #696969; 
     padding: 3px; 
@@ -46,13 +47,13 @@ img {
 	vertical-align: middle; 
 	font-family: Arial, Helvetica, sans-serif !important;
 	font-size: 18px;
-	background-color: #333366; 
+	background-color: #669933; 
 	color: #f1f1f1;
 	height: ; 
 }
 .mid{
 	text-align: left;
-    background-color: blue; 
+    background-color: transparent; 
 }
 .foot{
 	text-align: left;
@@ -75,6 +76,10 @@ img {
     padding-right: 15px;
     background-color: #ffffff;
     border-radius: 0 0 5px 5px;
+}
+
+#mainpicture {
+	background-color:black;
 }
 /* ----- Custom table styles ----- */
 
