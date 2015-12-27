@@ -44,9 +44,9 @@ img {
 .top_navigation{
 	position: relative; 
 	vertical-align: middle; 
-	font-family: "Segoe UI",Arial,sans-serif !important;
-	font-size: 17px;
-	background-color: purple; 
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size: 18px;
+	background-color: #333366; 
 	color: #f1f1f1;
 	height: ; 
 }
@@ -99,22 +99,22 @@ table tr:nth-child(even) {
 /* ----- Custom navigation menu styles ----- */
 
 ul#menu {
-    padding: 0;
+    padding: 20px;
     margin-bottom: 11px;
 }
 ul#menu li {
-    display: inline;
+    display: block;
     margin-right: 3px;
 	float: left; 
 }
 ul#menu li a {
-    padding: 3px 3px 3px 3px;
+    padding: 100% 12px 100% 12px;
     text-decoration: none;
-    color: #696969;
-    border-radius: 4px 4px 0 0;
+    color: #FFFFFF;
+    border: 1pt solid white;
 }
 ul#menu li a:hover {
-    color: white;
-    background-color: black;
+    color: lightgreen;
+    background-color: #333399;
 }
 
